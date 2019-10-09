@@ -39,6 +39,9 @@ nav a:hover{
     object-position: top;
     height: 40vh;
 }
+.image-modal{
+    width: 100%;
+}
 
 footer a{
     color: #3d214b;
